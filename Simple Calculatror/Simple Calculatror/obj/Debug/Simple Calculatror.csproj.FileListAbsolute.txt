@@ -1,0 +1,22 @@
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\bin\Debug\Simple Calculatror.exe.config
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\bin\Debug\Simple Calculatror.exe
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\bin\Debug\Simple Calculatror.pdb
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.csproj.AssemblyReference.cache
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\obj\Debug\Simple_Calculatror.Calculator.resources
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\obj\Debug\Simple_Calculatror.Properties.Resources.resources
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.csproj.GenerateResource.cache
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.csproj.CoreCompileInputs.cache
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.exe
+C:\Users\mirza\OneDrive\Desktop\VS Projects\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.pdb
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\bin\Debug\Simple Calculatror.exe.config
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\bin\Debug\Simple Calculatror.exe
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\bin\Debug\Simple Calculatror.pdb
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\obj\Debug\Simple_Calculatror.Calculator.resources
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\obj\Debug\Simple_Calculatror.Properties.Resources.resources
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.exe
+C:\Users\User\Desktop\Simple Calculatror\Simple Calculatror\obj\Debug\Simple Calculatror.pdb
